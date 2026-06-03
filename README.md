@@ -1,5 +1,7 @@
 # FreeVault 💎
 
+**live deomo:** https://freevault-hub.vercel.app/
+
 The ultimate, curated directory of 100% free, legal, public, and open-source resources collected from across the internet. FreeVault is built for developers, designers, and creators to find exactly what they need instantly.
 
 **Zero Paywalls. Zero Accounts. Zero Friction.**
