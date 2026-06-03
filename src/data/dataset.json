@@ -1,0 +1,3077 @@
+[
+  {
+    "id": "reels-social-media",
+    "icon": "🎬",
+    "name": "Reels & Social Media",
+    "resources": [
+      {
+        "name": "Mixkit",
+        "description": "Free Reel/Shorts templates, transitions, music, SFX — no login",
+        "url": "https://mixkit.co"
+      },
+      {
+        "name": "AEJuice Free Plugins",
+        "description": "100 completely free motion packs — liquid, glitch, transitions",
+        "url": "https://aejuice.com/free-plugins/"
+      },
+      {
+        "name": "Canva (Free)",
+        "description": "10,000+ free Reel templates — no premium needed",
+        "url": "https://www.canva.com"
+      },
+      {
+        "name": "CapCut",
+        "description": "Free Reel editor + trending templates, no watermark",
+        "url": "https://www.capcut.com/template"
+      },
+      {
+        "name": "Jitter (Free)",
+        "description": "Free animated social media motion templates",
+        "url": "https://jitter.video"
+      },
+      {
+        "name": "Clipchamp",
+        "description": "Free Windows-built-in video editor + templates",
+        "url": "https://clipchamp.com"
+      },
+      {
+        "name": "SonduckFilm",
+        "description": "Free \"Duck Packs\" — motion, titles, transitions download",
+        "url": "https://www.sonduckfilm.com"
+      },
+      {
+        "name": "ProductionCrate",
+        "description": "Free VFX, overlays, transitions (free registration)",
+        "url": "https://productioncrate.com"
+      },
+      {
+        "name": "MyCreativeFX",
+        "description": "Free VFX, LUTs, SFX packs — CapCut, Reel optimized",
+        "url": "https://mycreativefx.com"
+      },
+      {
+        "name": "Coverr",
+        "description": "Free beautiful cinematic stock video for Reels",
+        "url": "https://coverr.co"
+      },
+      {
+        "name": "CinePacks Free",
+        "description": "Free sampler packs — film burns, transitions, SFX",
+        "url": "https://cinepacks.store/collections/free-packs"
+      },
+      {
+        "name": "Film Crux",
+        "description": "Free transition packs, LUTs for filmmakers",
+        "url": "https://filmcrux.com"
+      },
+      {
+        "name": "Rocketstock Free",
+        "description": "Free AE templates, Reel titles, transitions",
+        "url": "https://www.rocketstock.com/free-after-effects-templates/"
+      },
+      {
+        "name": "TikTok Creative Center",
+        "description": "Free TikTok reel templates, trending audios",
+        "url": "https://ads.tiktok.com/business/creativecenter"
+      },
+      {
+        "name": "Mazwai",
+        "description": "Free cinematic stock video clips",
+        "url": "https://mazwai.com"
+      }
+    ]
+  },
+  {
+    "id": "video-editing-vfx-transitions",
+    "icon": "✂️",
+    "name": "Video Editing — VFX & Transitions",
+    "resources": [
+      {
+        "name": "FootageCrate",
+        "description": "1000s of free VFX — fire, smoke, explosions, sci-fi, overlays",
+        "url": "https://footagecrate.com"
+      },
+      {
+        "name": "ProductionCrate",
+        "description": "Free VFX, transitions, 2D/3D elements (register free)",
+        "url": "https://productioncrate.com"
+      },
+      {
+        "name": "CinePacks Free",
+        "description": "Film burns, lens flares, gun effects, transition samples",
+        "url": "https://cinepacks.store/collections/free-packs"
+      },
+      {
+        "name": "MyCreativeFX",
+        "description": "Free glitch, light leaks, overlays — mobile optimized",
+        "url": "https://mycreativefx.com"
+      },
+      {
+        "name": "SonduckFilm",
+        "description": "Hundreds of free packs — transitions, overlays, titles",
+        "url": "https://www.sonduckfilm.com"
+      },
+      {
+        "name": "Film Crux",
+        "description": "Free transitions, overlays, LUTs for filmmakers",
+        "url": "https://filmcrux.com"
+      },
+      {
+        "name": "Mixkit",
+        "description": "Free stock footage, video templates, transitions",
+        "url": "https://mixkit.co"
+      },
+      {
+        "name": "AEJuice Free",
+        "description": "100 free packs — motion, glitch, liquid, burst elements",
+        "url": "https://aejuice.com/free-plugins/"
+      },
+      {
+        "name": "Videvo",
+        "description": "Free HD & 4K footage, motion graphics, transitions",
+        "url": "https://www.videvo.net"
+      },
+      {
+        "name": "Videezy Free",
+        "description": "Community free stock footage & VFX overlays (attribution)",
+        "url": "https://www.videezy.com"
+      },
+      {
+        "name": "FilterGrade Free",
+        "description": "Free transitions, overlays, presets — no registration",
+        "url": "https://filtergrade.com/free/"
+      },
+      {
+        "name": "Cinecom Free Downloads",
+        "description": "Free Premiere Pro & DaVinci Resolve transitions",
+        "url": "https://www.cinecom.net/free-downloads/"
+      },
+      {
+        "name": "Rocketstock Free",
+        "description": "Free AE templates, titles, transitions",
+        "url": "https://www.rocketstock.com/free-after-effects-templates/"
+      },
+      {
+        "name": "Action VFX Free",
+        "description": "Professional free VFX elements collection",
+        "url": "https://www.actionvfx.com/collections/free-vfx"
+      },
+      {
+        "name": "Detonation Films",
+        "description": "Free stock explosions, fire, smoke VFX",
+        "url": "https://detonationfilms.com"
+      },
+      {
+        "name": "Mazwai",
+        "description": "Free cinematic stock video clips",
+        "url": "https://mazwai.com"
+      },
+      {
+        "name": "Life of Vids",
+        "description": "Free stock video, no attribution needed",
+        "url": "https://www.lifeofvids.com"
+      },
+      {
+        "name": "Dareful",
+        "description": "Free 4K stock footage downloads",
+        "url": "https://dareful.com"
+      },
+      {
+        "name": "ISO Republic Video",
+        "description": "CC0 free stock videos",
+        "url": "https://isorepublic.com"
+      },
+      {
+        "name": "Coverr",
+        "description": "Free beautiful stock video footage",
+        "url": "https://coverr.co"
+      },
+      {
+        "name": "Pexels Video",
+        "description": "Free HD stock video, CC0",
+        "url": "https://www.pexels.com/videos/"
+      },
+      {
+        "name": "Pixabay Video",
+        "description": "Free CC0 stock videos, no attribution",
+        "url": "https://pixabay.com/videos/"
+      },
+      {
+        "name": "PremiumBeat Blog (Free)",
+        "description": "Blog posts with free downloadable asset packs",
+        "url": "https://www.premiumbeat.com/blog/category/free-video-assets/"
+      },
+      {
+        "name": "Vidsplay",
+        "description": "Free stock video footage",
+        "url": "https://www.vidsplay.com"
+      },
+      {
+        "name": "Splitshire Video",
+        "description": "Free cinematic stock footage",
+        "url": "https://www.splitshire.com"
+      }
+    ]
+  },
+  {
+    "id": "luts-color-grading",
+    "icon": "🎨",
+    "name": "LUTs & Color Grading",
+    "resources": [
+      {
+        "name": "FilterGrade Free LUTs",
+        "description": "100+ free LUT packs — cinematic, film, portrait, travel",
+        "url": "https://filtergrade.com/free-luts/"
+      },
+      {
+        "name": "Rocketstock 35 Free LUTs",
+        "description": "35 professional cinematic LUTs — direct download",
+        "url": "https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/"
+      },
+      {
+        "name": "CinePacks Free LUTs",
+        "description": "Film-grade LUT samples — free download",
+        "url": "https://cinepacks.store/collections/free-packs"
+      },
+      {
+        "name": "PremiumBeat Free LUTs",
+        "description": "Curated free LUT packs — blog download",
+        "url": "https://www.premiumbeat.com/blog/free-luts-for-video-editing/"
+      },
+      {
+        "name": "Presetpro Free LUTs",
+        "description": "Portrait, landscape, cinematic free LUTs",
+        "url": "https://presetpro.com/collections/free-luts"
+      },
+      {
+        "name": "ON1 Free LUTs",
+        "description": "Creative color grading LUTs — free download",
+        "url": "https://www.on1.com/free/luts/"
+      },
+      {
+        "name": "IWLTBAP Free LUTs",
+        "description": "Free creative LUT pack",
+        "url": "https://iwltbap.com/free-luts/"
+      },
+      {
+        "name": "Cinecolor DaVinci Free",
+        "description": "Free DaVinci Resolve color presets",
+        "url": "https://cinecolor.co/davinci-resolve"
+      },
+      {
+        "name": "Ground Control Color Free",
+        "description": "Free film-grade LUTs for any editor",
+        "url": "https://groundcontrolcolor.com/blogs/free"
+      },
+      {
+        "name": "Color Grading Central Free",
+        "description": "Free LUT packs for filmmakers",
+        "url": "https://www.colorgradingcentral.com/free-luts"
+      },
+      {
+        "name": "VisionColor Free",
+        "description": "Free film emulation LUTs download",
+        "url": "https://visioncolor.com"
+      },
+      {
+        "name": "Deluts Free",
+        "description": "Free DaVinci Resolve LUT collection",
+        "url": "https://www.deluts.com"
+      },
+      {
+        "name": "Frank Glencairn LUTs",
+        "description": "Free technical & creative LUTs (blog)",
+        "url": "https://frankglencairn.wordpress.com"
+      },
+      {
+        "name": "Cube Files",
+        "description": "Searchable free .cube LUT archive",
+        "url": "https://www.cube-files.com"
+      },
+      {
+        "name": "Lutify.me Free",
+        "description": "Free cinematic LUT sample pack",
+        "url": "https://lutify.me/free-luts/"
+      },
+      {
+        "name": "Slog2Sgamut LUTs",
+        "description": "Free Sony camera LUT packs",
+        "url": "https://www.sonyalpha.blog/2017/04/09/best-free-luts-for-sony-cameras/"
+      },
+      {
+        "name": "Koji Free LUTs",
+        "description": "Film emulation free LUTs",
+        "url": "https://koji.to/free-luts"
+      },
+      {
+        "name": "MyCreativeFX LUTs",
+        "description": "Free creative LUTs for CapCut & Resolve",
+        "url": "https://mycreativefx.com"
+      }
+    ]
+  },
+  {
+    "id": "music-completely-free",
+    "icon": "🎵",
+    "name": "Music — Completely Free",
+    "resources": [
+      {
+        "name": "Free Music Archive (FMA)",
+        "description": "Creative Commons — all genres, huge library",
+        "url": "https://freemusicarchive.org"
+      },
+      {
+        "name": "YouTube Audio Library",
+        "description": "Royalty-free — for YouTube creators, no sign-up",
+        "url": "https://www.youtube.com/audiolibrary"
+      },
+      {
+        "name": "Mixkit Music",
+        "description": "100% free — no attribution, no limits",
+        "url": "https://mixkit.co/free-stock-music/"
+      },
+      {
+        "name": "Incompetech",
+        "description": "Royalty-free by Kevin MacLeod — credit required",
+        "url": "https://incompetech.com"
+      },
+      {
+        "name": "Audionautix",
+        "description": "Free CC Attribution music — many genres",
+        "url": "https://audionautix.com"
+      },
+      {
+        "name": "Bensound",
+        "description": "Free royalty-free background music (credit required)",
+        "url": "https://www.bensound.com"
+      },
+      {
+        "name": "ccMixter",
+        "description": "Creative Commons collaborative music remixes",
+        "url": "http://dig.ccmixter.org"
+      },
+      {
+        "name": "Musopen",
+        "description": "Public domain classical music — free download",
+        "url": "https://musopen.org"
+      },
+      {
+        "name": "Jamendo",
+        "description": "Creative Commons music — free for personal use",
+        "url": "https://www.jamendo.com"
+      },
+      {
+        "name": "Pixabay Music",
+        "description": "CC0 music & beats — no attribution needed",
+        "url": "https://pixabay.com/music/"
+      },
+      {
+        "name": "Chosic",
+        "description": "Free royalty-free music — sorted by genre/mood",
+        "url": "https://www.chosic.com/free-music/"
+      },
+      {
+        "name": "Freebeats.io",
+        "description": "Free hip-hop, trap, lo-fi beats",
+        "url": "https://freebeats.io"
+      },
+      {
+        "name": "CCTRAX",
+        "description": "Free Creative Commons music",
+        "url": "https://cctrax.com"
+      },
+      {
+        "name": "Moby MusicBox",
+        "description": "Free music by artist Moby for non-commercial video",
+        "url": "http://mobygratis.com"
+      },
+      {
+        "name": "Looperman",
+        "description": "Free loops, acapellas, samples — huge community",
+        "url": "https://www.looperman.com"
+      },
+      {
+        "name": "Internet Archive Audio",
+        "description": "Millions of public domain audio & recordings",
+        "url": "https://archive.org/details/audio"
+      },
+      {
+        "name": "SoundClick Free",
+        "description": "Free Creative Commons artist music",
+        "url": "https://www.soundclick.com"
+      },
+      {
+        "name": "Musica Fox",
+        "description": "Royalty-free background music",
+        "url": "https://www.musicfox.com"
+      },
+      {
+        "name": "Freepd",
+        "description": "100% Public domain music — CC0",
+        "url": "https://freepd.com"
+      },
+      {
+        "name": "Purple Planet",
+        "description": "Free music (personal & commercial with credit)",
+        "url": "https://www.purple-planet.com"
+      }
+    ]
+  },
+  {
+    "id": "sound-effects-completely-free",
+    "icon": "🔔",
+    "name": "Sound Effects — Completely Free",
+    "resources": [
+      {
+        "name": "Freesound.org",
+        "description": "Largest CC SFX library — 500,000+ sounds",
+        "url": "https://freesound.org"
+      },
+      {
+        "name": "Mixkit SFX",
+        "description": "Free SFX — no account, no attribution needed",
+        "url": "https://mixkit.co/free-sound-effects/"
+      },
+      {
+        "name": "Zapsplat",
+        "description": "130,000+ free SFX — free registration required",
+        "url": "https://www.zapsplat.com"
+      },
+      {
+        "name": "SoundBible",
+        "description": "Free sound clips — public domain & CC",
+        "url": "https://soundbible.com"
+      },
+      {
+        "name": "99Sounds",
+        "description": "Free professional SFX packs for download",
+        "url": "https://99sounds.org"
+      },
+      {
+        "name": "Free SFX",
+        "description": "Large SFX archive — free download",
+        "url": "https://www.freesfx.co.uk"
+      },
+      {
+        "name": "BBC Sound Effects",
+        "description": "16,000+ BBC SFX — free for personal use",
+        "url": "https://sound-effects.bbcrewind.co.uk"
+      },
+      {
+        "name": "Adobe Audition SFX",
+        "description": "Free SFX pack by Adobe — no subscription",
+        "url": "https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html"
+      },
+      {
+        "name": "SoundGator",
+        "description": "Free SFX downloads — CC licensed",
+        "url": "https://www.soundgator.com"
+      },
+      {
+        "name": "FreeSFX",
+        "description": "Categorized free SFX collection",
+        "url": "https://www.freesfx.co.uk"
+      }
+    ]
+  },
+  {
+    "id": "photo-presets-completely-free",
+    "icon": "📷",
+    "name": "Photo Presets — Completely Free",
+    "resources": [
+      {
+        "name": "Contrastly Free",
+        "description": "Landscape, portrait, B&W Lightroom preset bundles",
+        "url": "https://contrastly.com/free-lightroom-presets/"
+      },
+      {
+        "name": "Presetpro Free",
+        "description": "Film, wedding, social media presets — free collection",
+        "url": "https://presetpro.com/collections/free-lightroom-presets"
+      },
+      {
+        "name": "ON1 Free Presets",
+        "description": "High-quality Lightroom presets — direct download",
+        "url": "https://www.on1.com/free/lightroom-presets/"
+      },
+      {
+        "name": "PSD Stack Free",
+        "description": "100s of free Lightroom desktop & mobile presets",
+        "url": "https://psdstack.com/free-lightroom-presets/"
+      },
+      {
+        "name": "Greater Than Gatsby Free",
+        "description": "Sample professional preset sets — free download",
+        "url": "https://www.greaterthangatsby.com/pages/free-lightroom-presets"
+      },
+      {
+        "name": "FilterGrade Free Presets",
+        "description": "Cinematic, portrait, film emulation preset packs",
+        "url": "https://filtergrade.com/free-lightroom-presets/"
+      },
+      {
+        "name": "Lightroom Presets World",
+        "description": "500+ free Lightroom presets collection",
+        "url": "https://www.lightroompresets.world"
+      },
+      {
+        "name": "Preset Love",
+        "description": "Free Lightroom presets — various styles",
+        "url": "https://www.presetlove.com"
+      },
+      {
+        "name": "Photoshop Roadmap Free",
+        "description": "Free Photoshop actions & presets",
+        "url": "https://photoshoproadmap.com/photoshop-resources/actions/"
+      },
+      {
+        "name": "GraphicBurger",
+        "description": "Free PSD resources, Photoshop actions",
+        "url": "https://graphicburger.com"
+      },
+      {
+        "name": "G'MIC (GIMP)",
+        "description": "500+ open-source GIMP filters & effects",
+        "url": "https://gmic.eu"
+      },
+      {
+        "name": "GIMP.cc",
+        "description": "Free GIMP plugins, scripts, brushes",
+        "url": "https://www.gimp.cc"
+      },
+      {
+        "name": "DeviantArt Free Actions",
+        "description": "Community-shared free Photoshop actions",
+        "url": "https://www.deviantart.com"
+      },
+      {
+        "name": "PSD Stack Actions",
+        "description": "Free Photoshop actions collection",
+        "url": "https://psdstack.com"
+      },
+      {
+        "name": "Darktable",
+        "description": "Free open-source Lightroom alternative software",
+        "url": "https://www.darktable.org"
+      }
+    ]
+  },
+  {
+    "id": "brushes-completely-free",
+    "icon": "🖌️",
+    "name": "Brushes — Completely Free",
+    "resources": [
+      {
+        "name": "Brusheezy",
+        "description": "Largest free Photoshop brush community",
+        "url": "https://www.brusheezy.com"
+      },
+      {
+        "name": "DeviantArt Brushes",
+        "description": "1000s of community-made free brushes",
+        "url": "https://www.deviantart.com"
+      },
+      {
+        "name": "GIMP.cc",
+        "description": "Free GIMP brushes, scripts, plugins",
+        "url": "https://www.gimp.cc"
+      },
+      {
+        "name": "All-Free-Download Brushes",
+        "description": "Categorized Photoshop & GIMP brushes",
+        "url": "https://all-free-download.com"
+      },
+      {
+        "name": "Obsidian Dawn",
+        "description": "Free Photoshop brushes (grunge, nature, smoke)",
+        "url": "http://www.obsidiandawn.com"
+      },
+      {
+        "name": "My Photoshop Brushes",
+        "description": "Large free brush collection",
+        "url": "https://myphotoshopbrushes.com"
+      },
+      {
+        "name": "Qbrushes",
+        "description": "Free high-quality brush packs",
+        "url": "https://qbrushes.net"
+      },
+      {
+        "name": "Brush King",
+        "description": "Free creative Photoshop brushes",
+        "url": "https://www.brushking.eu"
+      }
+    ]
+  },
+  {
+    "id": "textures-cc0-free",
+    "icon": "🌿",
+    "name": "Textures — CC0 & Free",
+    "resources": [
+      {
+        "name": "Poly Haven Textures",
+        "description": "CC0 — Professional PBR textures",
+        "url": "https://polyhaven.com/textures"
+      },
+      {
+        "name": "AmbientCG",
+        "description": "CC0 — PBR textures, materials, HDRIs",
+        "url": "https://ambientcg.com"
+      },
+      {
+        "name": "3DTextures.me",
+        "description": "Free seamless PBR textures",
+        "url": "https://3dtextures.me"
+      },
+      {
+        "name": "FreePBR",
+        "description": "Free PBR material texture packs",
+        "url": "https://freepbr.com"
+      },
+      {
+        "name": "Lost and Taken",
+        "description": "Free high-quality organic textures",
+        "url": "https://lostandtaken.com"
+      },
+      {
+        "name": "Texture Ninja",
+        "description": "Free textures for commercial use",
+        "url": "https://texture.ninja"
+      },
+      {
+        "name": "TexturePal",
+        "description": "Free seamless tileable textures",
+        "url": "https://texturepal.com"
+      },
+      {
+        "name": "Unsplash Textures",
+        "description": "Free texture photos (search \"texture\")",
+        "url": "https://unsplash.com/s/photos/texture"
+      }
+    ]
+  },
+  {
+    "id": "pattern-generators-all-free",
+    "icon": "🔲",
+    "name": "Pattern Generators — All Free",
+    "resources": [
+      {
+        "name": "Subtle Patterns",
+        "description": "Classic tileable backgrounds",
+        "url": "https://www.toptal.com/designers/subtlepatterns"
+      },
+      {
+        "name": "Hero Patterns",
+        "description": "Free SVG repeating patterns",
+        "url": "https://heropatterns.com"
+      },
+      {
+        "name": "Pattern Monster",
+        "description": "Free CSS pattern generator",
+        "url": "https://pattern.monster"
+      },
+      {
+        "name": "BG Jar",
+        "description": "CSS/SVG background generator",
+        "url": "https://bgjar.com"
+      },
+      {
+        "name": "Patternico",
+        "description": "Free seamless icon patterns",
+        "url": "https://patternico.com"
+      },
+      {
+        "name": "Coolbackgrounds",
+        "description": "Free gradient & mesh backgrounds",
+        "url": "https://coolbackgrounds.io"
+      },
+      {
+        "name": "SVG Backgrounds",
+        "description": "Free customizable SVG backgrounds",
+        "url": "https://www.svgbackgrounds.com"
+      },
+      {
+        "name": "Trianglify",
+        "description": "Free geometric triangle backgrounds",
+        "url": "https://trianglify.io"
+      },
+      {
+        "name": "Patternify",
+        "description": "Free pixel pattern tile generator",
+        "url": "http://www.patternify.com"
+      }
+    ]
+  },
+  {
+    "id": "stock-photos-cc0-only",
+    "icon": "🖼️",
+    "name": "Stock Photos — CC0 Only",
+    "resources": [
+      {
+        "name": "Pexels",
+        "description": "CC0 — Free commercial use, no attribution",
+        "url": "https://www.pexels.com"
+      },
+      {
+        "name": "Unsplash",
+        "description": "Free, no attribution needed",
+        "url": "https://unsplash.com"
+      },
+      {
+        "name": "Pixabay",
+        "description": "CC0 — Photos, vectors, illustrations",
+        "url": "https://pixabay.com"
+      },
+      {
+        "name": "StockSnap.io",
+        "description": "CC0 — High-quality curated photography",
+        "url": "https://stocksnap.io"
+      },
+      {
+        "name": "Gratisography",
+        "description": "CC0 — Unique creative stock photos",
+        "url": "https://gratisography.com"
+      },
+      {
+        "name": "ISO Republic",
+        "description": "CC0 — Photos, videos",
+        "url": "https://isorepublic.com"
+      },
+      {
+        "name": "Pxhere",
+        "description": "CC0 — Free photos",
+        "url": "https://pxhere.com"
+      },
+      {
+        "name": "Burst by Shopify",
+        "description": "Free commerce & lifestyle photos",
+        "url": "https://burst.shopify.com"
+      },
+      {
+        "name": "Kaboompics",
+        "description": "Free aesthetic lifestyle & product photos",
+        "url": "https://kaboompics.com"
+      },
+      {
+        "name": "Jay Mantri",
+        "description": "CC0 — Moody atmospheric photos",
+        "url": "https://jaymantri.com"
+      },
+      {
+        "name": "MMT Stock",
+        "description": "Free photos by Jeffrey Betts",
+        "url": "https://mmtstock.com"
+      },
+      {
+        "name": "Foodies Feed",
+        "description": "Free food photography",
+        "url": "https://www.foodiesfeed.com"
+      },
+      {
+        "name": "Life of Pix",
+        "description": "Free high-res photos — no copyright",
+        "url": "https://www.lifeofpix.com"
+      },
+      {
+        "name": "SplitShire",
+        "description": "Free beautiful stock photos & videos",
+        "url": "https://www.splitshire.com"
+      },
+      {
+        "name": "New Old Stock",
+        "description": "Vintage CC0 historical photos",
+        "url": "https://nos.twnsnd.co"
+      },
+      {
+        "name": "Reshot",
+        "description": "Free unique stock photos",
+        "url": "https://www.reshot.com"
+      },
+      {
+        "name": "DesignersPics",
+        "description": "Free photos by Jeshu John",
+        "url": "https://www.designerspics.com"
+      },
+      {
+        "name": "Snapwire",
+        "description": "Free CC0 photography",
+        "url": "https://www.snapwire.co"
+      },
+      {
+        "name": "Rawpixel Free",
+        "description": "Free photos, vectors — CC0 collection",
+        "url": "https://www.rawpixel.com/free-images"
+      },
+      {
+        "name": "Vecteezy Free",
+        "description": "Free vectors & stock photos",
+        "url": "https://www.vecteezy.com"
+      }
+    ]
+  },
+  {
+    "id": "illustrations-open-source",
+    "icon": "🎨",
+    "name": "Illustrations — Open Source",
+    "resources": [
+      {
+        "name": "unDraw",
+        "description": "CC0 open source — customize colors freely",
+        "url": "https://undraw.co"
+      },
+      {
+        "name": "Open Peeps",
+        "description": "CC0 — Hand-drawn character illustrations",
+        "url": "https://www.openpeeps.com"
+      },
+      {
+        "name": "Humaaans",
+        "description": "CC0 — Mix-and-match people illustrations",
+        "url": "https://www.humaaans.com"
+      },
+      {
+        "name": "DrawKit",
+        "description": "Free CC0 illustration packs (hand-drawn & flat)",
+        "url": "https://www.drawkit.com"
+      },
+      {
+        "name": "Storyset",
+        "description": "Free editable story illustrations for any project",
+        "url": "https://storyset.com"
+      },
+      {
+        "name": "Open Doodles",
+        "description": "CC0 — Free sketchy illustration library",
+        "url": "https://www.opendoodles.com"
+      },
+      {
+        "name": "Absurd Design",
+        "description": "Free surreal illustrations",
+        "url": "https://absurd.design"
+      },
+      {
+        "name": "IRA Design",
+        "description": "Free gradient-style SVG illustrations",
+        "url": "https://iradesign.io"
+      },
+      {
+        "name": "Illlustrations.co",
+        "description": "Open-source illustration library",
+        "url": "https://illlustrations.co"
+      },
+      {
+        "name": "Lukasz Adam SVGs",
+        "description": "Free open-source SVG illustrations",
+        "url": "https://lukaszadam.com/illustrations"
+      },
+      {
+        "name": "ManyPixels Gallery",
+        "description": "Free vector illustration library",
+        "url": "https://www.manypixels.co/gallery"
+      },
+      {
+        "name": "Stubborn Fun",
+        "description": "Free character illustration builder",
+        "url": "https://stubborn.fun"
+      },
+      {
+        "name": "Avataaars",
+        "description": "Free customizable avatar illustrations",
+        "url": "https://avataaars.com"
+      },
+      {
+        "name": "Multiavatar",
+        "description": "Free multilingual avatar generator",
+        "url": "https://multiavatar.com"
+      },
+      {
+        "name": "Blush Design",
+        "description": "Free customizable illustration library",
+        "url": "https://blush.design"
+      }
+    ]
+  },
+  {
+    "id": "fonts-free-for-everyone",
+    "icon": "🔠",
+    "name": "Fonts — Free for Everyone",
+    "resources": [
+      {
+        "name": "Google Fonts",
+        "description": "Open source — 1,500+ fonts, forever free",
+        "url": "https://fonts.google.com"
+      },
+      {
+        "name": "Font Squirrel",
+        "description": "Free for commercial use — curated quality",
+        "url": "https://www.fontsquirrel.com"
+      },
+      {
+        "name": "Fontshare",
+        "description": "High-quality fonts by Indian Type Foundry — free",
+        "url": "https://www.fontshare.com"
+      },
+      {
+        "name": "Befonts",
+        "description": "Free fonts for personal & commercial use",
+        "url": "https://befonts.com"
+      },
+      {
+        "name": "FontFabric Free",
+        "description": "High-quality premium-style fonts — free tier",
+        "url": "https://www.fontfabric.com/free-fonts/"
+      },
+      {
+        "name": "The League of Moveable Type",
+        "description": "Open-source font foundry",
+        "url": "https://www.theleagueofmoveabletype.com"
+      },
+      {
+        "name": "Velvetyne",
+        "description": "Free open-source experimental typefaces",
+        "url": "https://velvetyne.fr"
+      },
+      {
+        "name": "Open Foundry",
+        "description": "Curated open-source font library",
+        "url": "https://open-foundry.com"
+      },
+      {
+        "name": "Uncut.wtf",
+        "description": "Free fonts from independent type designers",
+        "url": "https://uncut.wtf"
+      },
+      {
+        "name": "Fontsource",
+        "description": "Open-source fonts as npm packages",
+        "url": "https://fontsource.org"
+      },
+      {
+        "name": "DaFont",
+        "description": "Huge font archive (check each license)",
+        "url": "https://www.dafont.com"
+      },
+      {
+        "name": "1001 Free Fonts",
+        "description": "Large free font archive",
+        "url": "https://www.1001freefonts.com"
+      },
+      {
+        "name": "Urbanfonts Free",
+        "description": "Free commercial-use font collection",
+        "url": "https://www.urbanfonts.com"
+      },
+      {
+        "name": "Collletttivo",
+        "description": "Collaborative open-source typefaces",
+        "url": "https://www.collletttivo.it"
+      },
+      {
+        "name": "Fontesk",
+        "description": "Free fonts for personal & commercial use",
+        "url": "https://fontesk.com"
+      },
+      {
+        "name": "CDN Fonts",
+        "description": "Free web font CDN",
+        "url": "https://www.cdnfonts.com"
+      },
+      {
+        "name": "Font Bundles Free",
+        "description": "Free fonts with commercial license",
+        "url": "https://fontbundles.net/free-fonts"
+      },
+      {
+        "name": "Creative Fabrica Free Fonts",
+        "description": "Free stylish font downloads",
+        "url": "https://www.creativefabrica.com/freebies/free-fonts/"
+      }
+    ]
+  },
+  {
+    "id": "icons-open-source-only",
+    "icon": "🔷",
+    "name": "Icons — Open Source Only",
+    "resources": [
+      {
+        "name": "Google Material Icons",
+        "description": "Apache 2.0",
+        "url": "https://fonts.google.com/icons"
+      },
+      {
+        "name": "Heroicons",
+        "description": "MIT",
+        "url": "https://heroicons.com"
+      },
+      {
+        "name": "Bootstrap Icons",
+        "description": "MIT",
+        "url": "https://icons.getbootstrap.com"
+      },
+      {
+        "name": "Tabler Icons",
+        "description": "MIT",
+        "url": "https://tabler-icons.io"
+      },
+      {
+        "name": "Feather Icons",
+        "description": "MIT",
+        "url": "https://feathericons.com"
+      },
+      {
+        "name": "Remix Icon",
+        "description": "Apache 2.0",
+        "url": "https://remixicon.com"
+      },
+      {
+        "name": "Ionicons",
+        "description": "MIT",
+        "url": "https://ionic.io/ionicons"
+      },
+      {
+        "name": "Phosphor Icons",
+        "description": "MIT",
+        "url": "https://phosphoricons.com"
+      },
+      {
+        "name": "Eva Icons",
+        "description": "MIT",
+        "url": "https://akveo.github.io/eva-icons/"
+      },
+      {
+        "name": "Boxicons",
+        "description": "MIT",
+        "url": "https://boxicons.com"
+      },
+      {
+        "name": "Simple Icons",
+        "description": "CC0 — Brand logos & icons",
+        "url": "https://simpleicons.org"
+      },
+      {
+        "name": "Devicons",
+        "description": "MIT — Programming language icons",
+        "url": "https://devicon.dev"
+      },
+      {
+        "name": "CSS.gg",
+        "description": "MIT — Pure CSS icons",
+        "url": "https://css.gg"
+      },
+      {
+        "name": "SVGRepo",
+        "description": "CC0 — 500,000+ free SVG icons",
+        "url": "https://www.svgrepo.com"
+      },
+      {
+        "name": "Iconify",
+        "description": "Open-source unified icon framework",
+        "url": "https://iconify.design"
+      },
+      {
+        "name": "Iconduck",
+        "description": "Open-source — 100,000+ free icons",
+        "url": "https://iconduck.com"
+      },
+      {
+        "name": "Lucide Icons",
+        "description": "MIT — Fork of Feather Icons",
+        "url": "https://lucide.dev"
+      },
+      {
+        "name": "Font Awesome Free",
+        "description": "CC BY 4.0 (icons)",
+        "url": "https://fontawesome.com"
+      },
+      {
+        "name": "Lordicon Free",
+        "description": "Free animated icon set",
+        "url": "https://lordicon.com"
+      },
+      {
+        "name": "Reshot",
+        "description": "Free icons & micro-illustrations",
+        "url": "https://www.reshot.com"
+      }
+    ]
+  },
+  {
+    "id": "mockups-100-free",
+    "icon": "📐",
+    "name": "Mockups — 100% Free",
+    "resources": [
+      {
+        "name": "ResourceBoy",
+        "description": "Free fonts, mockups, textures, PSDs, gradients",
+        "url": "https://resourceboy.com"
+      },
+      {
+        "name": "MockupWorld",
+        "description": "Curated directory of photorealistic free mockups",
+        "url": "https://www.mockupworld.co"
+      },
+      {
+        "name": "Unblast",
+        "description": "Modern high-quality free mockups — Figma & PSD",
+        "url": "https://unblast.com"
+      },
+      {
+        "name": "GraphicBurger",
+        "description": "Free PSD mockups, UI kits, text effects",
+        "url": "https://graphicburger.com"
+      },
+      {
+        "name": "Good Mockups",
+        "description": "7,300+ completely free PSD mockup files",
+        "url": "https://goodmockups.com"
+      },
+      {
+        "name": "MockupTree",
+        "description": "Free commercial-use PSD mockups",
+        "url": "https://mockuptree.com"
+      },
+      {
+        "name": "LS.Graphics Free",
+        "description": "High-quality free Photoshop & Figma mockups",
+        "url": "https://www.ls.graphics/free"
+      },
+      {
+        "name": "Freebiesbug",
+        "description": "Free fonts, UI kits, website templates, mockups",
+        "url": "https://freebiesbug.com"
+      },
+      {
+        "name": "Freedesignresources",
+        "description": "Curated free design resources hub",
+        "url": "https://freedesignresources.net"
+      },
+      {
+        "name": "Pixelbuddha Free",
+        "description": "Free professional design assets & mockups",
+        "url": "https://pixelbuddha.net/freebies"
+      },
+      {
+        "name": "Pixeden Free",
+        "description": "Free web & print design templates",
+        "url": "https://www.pixeden.com"
+      },
+      {
+        "name": "GraphicPear Free",
+        "description": "Free PSD templates & mockups",
+        "url": "https://www.graphicpear.com"
+      },
+      {
+        "name": "Mr. Mockup Free",
+        "description": "Clean modern free mockup templates",
+        "url": "https://mrmockup.com"
+      },
+      {
+        "name": "The Mockup Club",
+        "description": "Focused free mockup library",
+        "url": "https://themockup.club"
+      },
+      {
+        "name": "Zippypixels",
+        "description": "Free device & brand mockup templates",
+        "url": "https://zippypixels.com"
+      },
+      {
+        "name": "Design Bundles Free",
+        "description": "Free vectors, mockups, fonts section",
+        "url": "https://designbundles.net/free-design-resources"
+      },
+      {
+        "name": "FreebiesUI",
+        "description": "Free UI design kits & templates",
+        "url": "https://freebiesui.com"
+      },
+      {
+        "name": "Behance",
+        "description": "Designer-shared free kits & mockups",
+        "url": "https://www.behance.net"
+      }
+    ]
+  },
+  {
+    "id": "after-effects-motion-graphics",
+    "icon": "🎬",
+    "name": "After Effects & Motion Graphics",
+    "resources": [
+      {
+        "name": "AEJuice Free Plugins (100 Packs)",
+        "description": "",
+        "url": "https://aejuice.com/free-plugins/"
+      },
+      {
+        "name": "SonduckFilm Free Packs",
+        "description": "",
+        "url": "https://www.sonduckfilm.com"
+      },
+      {
+        "name": "Rocketstock Free AE",
+        "description": "",
+        "url": "https://www.rocketstock.com/free-after-effects-templates/"
+      },
+      {
+        "name": "MotionElements Free",
+        "description": "",
+        "url": "https://www.motionelements.com/free/"
+      },
+      {
+        "name": "VideoCopilot Free",
+        "description": "",
+        "url": "https://www.videocopilot.net/tutorials/"
+      },
+      {
+        "name": "Mixkit AE Templates",
+        "description": "",
+        "url": "https://mixkit.co/free-after-effects-templates/"
+      }
+    ]
+  },
+  {
+    "id": "lottie-web-animations",
+    "icon": "🌐",
+    "name": "Lottie & Web Animations",
+    "resources": [
+      {
+        "name": "LottieFiles",
+        "description": "Free Lottie JSON, GIF, MP4 animations",
+        "url": "https://lottiefiles.com"
+      },
+      {
+        "name": "Lottieflow",
+        "description": "Free Lottie icon animations",
+        "url": "https://www.lottieflow.com"
+      },
+      {
+        "name": "Lordicon",
+        "description": "Free animated icon sets",
+        "url": "https://lordicon.com"
+      },
+      {
+        "name": "Jitter Free",
+        "description": "Animated social media templates",
+        "url": "https://jitter.video"
+      },
+      {
+        "name": "Animate.css",
+        "description": "Open-source CSS animation library",
+        "url": "https://animate.style"
+      },
+      {
+        "name": "GSAP Free",
+        "description": "Professional web animation library",
+        "url": "https://gsap.com"
+      },
+      {
+        "name": "Framer Motion",
+        "description": "Open-source React animation",
+        "url": "https://www.framer.com/motion/"
+      },
+      {
+        "name": "Auto-Animate",
+        "description": "Zero-config open-source animation",
+        "url": "https://auto-animate.formkit.com"
+      }
+    ]
+  },
+  {
+    "id": "blender-3d-animation",
+    "icon": "🎨",
+    "name": "Blender & 3D Animation",
+    "resources": [
+      {
+        "name": "Blender Studio",
+        "description": "Open movie files, rigs, scenes",
+        "url": "https://studio.blender.org"
+      },
+      {
+        "name": "BlenderKit",
+        "description": "Free 3D assets inside Blender",
+        "url": "https://www.blenderkit.com"
+      },
+      {
+        "name": "Mixamo",
+        "description": "Free rigged character animations",
+        "url": "https://www.mixamo.com"
+      },
+      {
+        "name": "Blender Market Free",
+        "description": "Free Blender add-ons",
+        "url": "https://blendermarket.com/categories/free"
+      }
+    ]
+  },
+  {
+    "id": "3d-models-assets-free",
+    "icon": "🧊",
+    "name": "3D Models & Assets — Free",
+    "resources": [
+      {
+        "name": "Poly Haven",
+        "description": "CC0 — Models, HDRIs, textures",
+        "url": "https://polyhaven.com"
+      },
+      {
+        "name": "AmbientCG",
+        "description": "CC0 — PBR materials, HDRIs",
+        "url": "https://ambientcg.com"
+      },
+      {
+        "name": "Sketchfab Free Models",
+        "description": "CC licenses — filter by \"Downloadable\"",
+        "url": "https://sketchfab.com/features/free-3d-models"
+      },
+      {
+        "name": "Thingiverse",
+        "description": "CC — 3D printing focused",
+        "url": "https://www.thingiverse.com"
+      },
+      {
+        "name": "Printables (Prusa)",
+        "description": "Free 3D printable models",
+        "url": "https://www.printables.com"
+      },
+      {
+        "name": "Free3D",
+        "description": "Free animated 3D model archive",
+        "url": "https://free3d.com"
+      },
+      {
+        "name": "CGTrader Free",
+        "description": "Free 3D models for all software",
+        "url": "https://www.cgtrader.com/free-3d-models"
+      },
+      {
+        "name": "BlenderKit",
+        "description": "Free 3D Blender assets in-app",
+        "url": "https://www.blenderkit.com"
+      },
+      {
+        "name": "Kenney.nl",
+        "description": "CC0 game assets — 3D, 2D, audio",
+        "url": "https://kenney.nl/assets"
+      },
+      {
+        "name": "OpenGameArt",
+        "description": "Free CC game art, sprites, 3D models",
+        "url": "https://opengameart.org"
+      },
+      {
+        "name": "ShareCG",
+        "description": "Free community 3D models",
+        "url": "https://www.sharecg.com"
+      },
+      {
+        "name": "MyMiniFactory Free",
+        "description": "Free 3D print designs",
+        "url": "https://www.myminifactory.com/free"
+      },
+      {
+        "name": "Cults3D Free",
+        "description": "Free 3D designs for printing",
+        "url": "https://cults3d.com/en/3d-models/free"
+      },
+      {
+        "name": "NASA 3D Resources",
+        "description": "Free NASA 3D models & assets",
+        "url": "https://nasa3d.arc.nasa.gov/models"
+      },
+      {
+        "name": "NIH 3D Print Exchange",
+        "description": "Free biomedical 3D models",
+        "url": "https://3dprint.nih.gov"
+      },
+      {
+        "name": "TurboSquid Free",
+        "description": "Free Royalty-free 3D models",
+        "url": "https://www.turbosquid.com/Search/3D-Models/free"
+      },
+      {
+        "name": "Unreal Marketplace Free",
+        "description": "Free Unreal Engine game assets",
+        "url": "https://www.unrealengine.com/marketplace/en-US/free"
+      },
+      {
+        "name": "Unity Asset Store Free",
+        "description": "Free Unity 3D game assets",
+        "url": "https://assetstore.unity.com/?price=0-0"
+      }
+    ]
+  },
+  {
+    "id": "platforms-that-are-100-free",
+    "icon": "🏫",
+    "name": "Platforms That Are 100% Free",
+    "resources": [
+      {
+        "name": "Khan Academy",
+        "description": "K-12 to college — Math, Science, History, Art",
+        "url": "https://www.khanacademy.org"
+      },
+      {
+        "name": "MIT OpenCourseWare",
+        "description": "Complete MIT university courses, free forever",
+        "url": "https://ocw.mit.edu"
+      },
+      {
+        "name": "OpenLearn (Open University)",
+        "description": "Structured free courses + digital badges",
+        "url": "https://www.open.edu/openlearn"
+      },
+      {
+        "name": "CS50 by Harvard",
+        "description": "Best computer science intro — 100% free",
+        "url": "https://cs50.harvard.edu"
+      },
+      {
+        "name": "freeCodeCamp",
+        "description": "Full coding curriculum + free certifications",
+        "url": "https://www.freecodecamp.org"
+      },
+      {
+        "name": "The Odin Project",
+        "description": "Complete free full-stack web dev curriculum",
+        "url": "https://www.theodinproject.com"
+      },
+      {
+        "name": "Alison",
+        "description": "4,000+ free professional courses",
+        "url": "https://alison.com"
+      },
+      {
+        "name": "Saylor Academy",
+        "description": "100+ free college-level courses",
+        "url": "https://www.saylor.org"
+      },
+      {
+        "name": "Google Digital Garage",
+        "description": "Free digital marketing & AI courses",
+        "url": "https://grow.google"
+      },
+      {
+        "name": "Google Skillshop",
+        "description": "Free Google product certifications",
+        "url": "https://skillshop.withgoogle.com"
+      },
+      {
+        "name": "Microsoft Learn",
+        "description": "Free Microsoft & Azure technology learning",
+        "url": "https://learn.microsoft.com"
+      },
+      {
+        "name": "AWS Training Free",
+        "description": "Free Amazon cloud computing courses",
+        "url": "https://aws.amazon.com/training/digital/"
+      },
+      {
+        "name": "Cisco NetAcad",
+        "description": "Free networking & cybersecurity courses",
+        "url": "https://www.netacad.com"
+      },
+      {
+        "name": "NPTEL (India)",
+        "description": "Free IIT/IISc engineering courses",
+        "url": "https://nptel.ac.in"
+      },
+      {
+        "name": "Swayam (India)",
+        "description": "Free Indian university courses",
+        "url": "https://swayam.gov.in"
+      },
+      {
+        "name": "Wikiversity",
+        "description": "Community-created free learning resources",
+        "url": "https://www.wikiversity.org"
+      },
+      {
+        "name": "W3Schools",
+        "description": "Free web development tutorials & reference",
+        "url": "https://www.w3schools.com"
+      },
+      {
+        "name": "MDN Web Docs",
+        "description": "Free official web development documentation",
+        "url": "https://developer.mozilla.org"
+      },
+      {
+        "name": "TED-Ed",
+        "description": "Free educational animated video lessons",
+        "url": "https://ed.ted.com"
+      },
+      {
+        "name": "Duolingo",
+        "description": "Free language learning — 40+ languages",
+        "url": "https://www.duolingo.com"
+      },
+      {
+        "name": "GCFGlobal",
+        "description": "Free tech, math, reading skills",
+        "url": "https://edu.gcfglobal.org"
+      }
+    ]
+  },
+  {
+    "id": "free-educational-youtube-channels",
+    "icon": "📺",
+    "name": "Free Educational YouTube Channels",
+    "resources": [
+      {
+        "name": "CrashCourse",
+        "description": "Science, History, Literature",
+        "url": "https://www.youtube.com/@crashcourse"
+      },
+      {
+        "name": "3Blue1Brown",
+        "description": "Visual mathematics",
+        "url": "https://www.youtube.com/@3blue1brown"
+      },
+      {
+        "name": "Kurzgesagt",
+        "description": "Science, philosophy, space",
+        "url": "https://www.youtube.com/@kurzgesagt"
+      },
+      {
+        "name": "TED-Ed",
+        "description": "Animated educational lessons",
+        "url": "https://www.youtube.com/@TED-Ed"
+      },
+      {
+        "name": "MIT OpenCourseWare",
+        "description": "Full MIT video lectures",
+        "url": "https://www.youtube.com/@mitocw"
+      },
+      {
+        "name": "Numberphile",
+        "description": "Mathematics & numbers",
+        "url": "https://www.youtube.com/@numberphile"
+      }
+    ]
+  },
+  {
+    "id": "books-libraries-free",
+    "icon": "📚",
+    "name": "Books & Libraries — Free",
+    "resources": [
+      {
+        "name": "Project Gutenberg",
+        "description": "70,000+ public domain ebooks — EPUB, Kindle, HTML",
+        "url": "https://www.gutenberg.org"
+      },
+      {
+        "name": "Standard Ebooks",
+        "description": "Beautifully typeset public domain classics",
+        "url": "https://standardebooks.org"
+      },
+      {
+        "name": "Open Library",
+        "description": "Borrow & read millions of books online free",
+        "url": "https://openlibrary.org"
+      },
+      {
+        "name": "Internet Archive Books",
+        "description": "Millions of digitized books free",
+        "url": "https://archive.org/details/texts"
+      },
+      {
+        "name": "ManyBooks",
+        "description": "50,000+ free ebooks in multiple formats",
+        "url": "https://manybooks.net"
+      },
+      {
+        "name": "Wikibooks",
+        "description": "Free community-written textbooks",
+        "url": "https://www.wikibooks.org"
+      },
+      {
+        "name": "Wikisource",
+        "description": "Free historical texts & source documents",
+        "url": "https://www.wikisource.org"
+      },
+      {
+        "name": "HathiTrust",
+        "description": "17M+ digitized academic library volumes",
+        "url": "https://www.hathitrust.org"
+      },
+      {
+        "name": "Librivox",
+        "description": "Free audiobooks read by volunteers",
+        "url": "https://librivox.org"
+      },
+      {
+        "name": "Loyal Books",
+        "description": "Free public domain audiobooks & ebooks",
+        "url": "https://www.loyalbooks.com"
+      },
+      {
+        "name": "OpenStax",
+        "description": "Free peer-reviewed college textbooks",
+        "url": "https://openstax.org"
+      },
+      {
+        "name": "Open Textbook Library",
+        "description": "Free academic textbooks",
+        "url": "https://open.umn.edu/opentextbooks"
+      },
+      {
+        "name": "Bookboon",
+        "description": "Free university & business textbooks",
+        "url": "https://bookboon.com"
+      },
+      {
+        "name": "Feedbooks",
+        "description": "Public domain & original fiction — free",
+        "url": "https://www.feedbooks.com"
+      },
+      {
+        "name": "Authorama",
+        "description": "Public domain books — read online",
+        "url": "https://www.authorama.com"
+      },
+      {
+        "name": "Smashwords Free",
+        "description": "Free indie ebooks by independent authors",
+        "url": "https://www.smashwords.com"
+      },
+      {
+        "name": "IMSLP",
+        "description": "600,000+ free music sheet scores",
+        "url": "https://imslp.org"
+      },
+      {
+        "name": "PDFDrive",
+        "description": "Search & download millions of free PDFs",
+        "url": "https://www.pdfdrive.com"
+      },
+      {
+        "name": "Free Programming Books",
+        "description": "GitHub repo — 500+ free tech books",
+        "url": "https://github.com/EbookFoundation/free-programming-books"
+      },
+      {
+        "name": "Musopen",
+        "description": "Free classical sheet music & scores",
+        "url": "https://musopen.org"
+      }
+    ]
+  },
+  {
+    "id": "movies-free-legal",
+    "icon": "🎬",
+    "name": "Movies — Free & Legal",
+    "resources": [
+      {
+        "name": "Internet Archive Films",
+        "description": "40,000+ public domain films — stream + download",
+        "url": "https://archive.org/details/moviesandfilms"
+      },
+      {
+        "name": "Tubi",
+        "description": "50,000+ free movies & TV shows (ads)",
+        "url": "https://tubitv.com"
+      },
+      {
+        "name": "Pluto TV",
+        "description": "Free streaming channels & movies",
+        "url": "https://pluto.tv"
+      },
+      {
+        "name": "Kanopy",
+        "description": "Art house, docs, foreign films (library card)",
+        "url": "https://www.kanopy.com"
+      },
+      {
+        "name": "Peacock Free",
+        "description": "Free movies & TV with ads",
+        "url": "https://www.peacocktv.com"
+      },
+      {
+        "name": "Crackle (Sony)",
+        "description": "Free Sony Pictures movies",
+        "url": "https://www.crackle.com"
+      },
+      {
+        "name": "Plex Free",
+        "description": "Free movies, TV, news (ad-supported)",
+        "url": "https://www.plex.tv"
+      },
+      {
+        "name": "Popcornflix",
+        "description": "Free Hollywood movies with ads",
+        "url": "https://www.popcornflix.com"
+      },
+      {
+        "name": "PublicDomainMovie.net",
+        "description": "Classic public domain films",
+        "url": "https://publicdomainmovie.net"
+      },
+      {
+        "name": "RetroVision.tv",
+        "description": "Classic films organized by genre",
+        "url": "https://retrovision.tv"
+      },
+      {
+        "name": "Classic Cinema Online",
+        "description": "Old classic films, free streaming",
+        "url": "https://www.classiccinemaonline.com"
+      },
+      {
+        "name": "Open Culture Films",
+        "description": "Free world cinema & documentaries",
+        "url": "https://www.openculture.com/freemoviesonline"
+      }
+    ]
+  },
+  {
+    "id": "research-papers-open-access",
+    "icon": "🔬",
+    "name": "Research Papers — Open Access",
+    "resources": [
+      {
+        "name": "Google Scholar",
+        "description": "All subjects — largest academic search engine",
+        "url": "https://scholar.google.com"
+      },
+      {
+        "name": "arXiv",
+        "description": "Physics, Math, CS, Biology, Finance — preprints",
+        "url": "https://arxiv.org"
+      },
+      {
+        "name": "PubMed Central (PMC)",
+        "description": "Biomedical & life sciences — NIH archive",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/"
+      },
+      {
+        "name": "CORE",
+        "description": "World's largest open-access research aggregator",
+        "url": "https://core.ac.uk"
+      },
+      {
+        "name": "Semantic Scholar",
+        "description": "AI-powered free paper discovery",
+        "url": "https://www.semanticscholar.org"
+      },
+      {
+        "name": "PLOS ONE",
+        "description": "Open-access multidisciplinary science journal",
+        "url": "https://journals.plos.org/plosone/"
+      },
+      {
+        "name": "Frontiers",
+        "description": "Open-access neuroscience, engineering, psychology",
+        "url": "https://www.frontiersin.org"
+      },
+      {
+        "name": "BioRxiv",
+        "description": "Biology preprints — free",
+        "url": "https://www.biorxiv.org"
+      },
+      {
+        "name": "medRxiv",
+        "description": "Health sciences preprints — free",
+        "url": "https://www.medrxiv.org"
+      },
+      {
+        "name": "SSRN",
+        "description": "Social science & humanities research",
+        "url": "https://www.ssrn.com"
+      },
+      {
+        "name": "ResearchGate",
+        "description": "Request full-text papers from authors",
+        "url": "https://www.researchgate.net"
+      },
+      {
+        "name": "Unpaywall Extension",
+        "description": "Finds free legal version of any paywalled paper",
+        "url": "https://unpaywall.org"
+      },
+      {
+        "name": "DOAJ",
+        "description": "Directory of Open Access Journals",
+        "url": "https://doaj.org"
+      },
+      {
+        "name": "BASE",
+        "description": "Bielefeld Academic Search Engine",
+        "url": "https://www.base-search.net"
+      }
+    ]
+  },
+  {
+    "id": "learning-sites-100-free",
+    "icon": "🖥️",
+    "name": "Learning Sites (100% Free)",
+    "resources": [
+      {
+        "name": "freeCodeCamp",
+        "description": "Full curriculum + certifications",
+        "url": "https://www.freecodecamp.org"
+      },
+      {
+        "name": "The Odin Project",
+        "description": "Full-stack web dev",
+        "url": "https://www.theodinproject.com"
+      },
+      {
+        "name": "CS50 Harvard",
+        "description": "Best intro to CS",
+        "url": "https://cs50.harvard.edu"
+      },
+      {
+        "name": "W3Schools",
+        "description": "HTML, CSS, JS, SQL, Python",
+        "url": "https://www.w3schools.com"
+      },
+      {
+        "name": "MDN Web Docs",
+        "description": "Official web reference",
+        "url": "https://developer.mozilla.org"
+      },
+      {
+        "name": "Programiz",
+        "description": "Python, C, Java for beginners",
+        "url": "https://www.programiz.com"
+      },
+      {
+        "name": "Khan Academy CS",
+        "description": "Intro programming, JS",
+        "url": "https://www.khanacademy.org/computing"
+      },
+      {
+        "name": "Exercism",
+        "description": "Code practice in 65 languages",
+        "url": "https://exercism.org"
+      },
+      {
+        "name": "GCFGlobal Tech",
+        "description": "Free tech basics",
+        "url": "https://edu.gcfglobal.org/en/subjects/tech/"
+      }
+    ]
+  },
+  {
+    "id": "github-free-learning-repos",
+    "icon": "🐙",
+    "name": "GitHub Free Learning Repos",
+    "resources": [
+      {
+        "name": "freeCodeCamp",
+        "description": "",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+      },
+      {
+        "name": "Free Programming Books",
+        "description": "",
+        "url": "https://github.com/EbookFoundation/free-programming-books"
+      },
+      {
+        "name": "Open Source CS (OSSU)",
+        "description": "",
+        "url": "https://github.com/ossu/computer-science"
+      },
+      {
+        "name": "Developer Roadmap",
+        "description": "",
+        "url": "https://github.com/kamranahmedse/developer-roadmap"
+      },
+      {
+        "name": "Project-Based Learning",
+        "description": "",
+        "url": "https://github.com/practical-tutorials/project-based-learning"
+      },
+      {
+        "name": "Coding Interview University",
+        "description": "",
+        "url": "https://github.com/jwasham/coding-interview-university"
+      },
+      {
+        "name": "System Design Primer",
+        "description": "",
+        "url": "https://github.com/donnemartin/system-design-primer"
+      },
+      {
+        "name": "Awesome Lists",
+        "description": "",
+        "url": "https://github.com/sindresorhus/awesome"
+      },
+      {
+        "name": "30 Days of Python",
+        "description": "",
+        "url": "https://github.com/Asabeneh/30-Days-Of-Python"
+      },
+      {
+        "name": "JavaScript Algorithms",
+        "description": "",
+        "url": "https://github.com/trekhleb/javascript-algorithms"
+      },
+      {
+        "name": "You Don't Know JS",
+        "description": "",
+        "url": "https://github.com/getify/You-Dont-Know-JS"
+      },
+      {
+        "name": "Build Your Own X",
+        "description": "",
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+      },
+      {
+        "name": "Public APIs",
+        "description": "",
+        "url": "https://github.com/public-apis/public-apis"
+      },
+      {
+        "name": "CS Video Courses",
+        "description": "",
+        "url": "https://github.com/Developer-Y/cs-video-courses"
+      },
+      {
+        "name": "Clean Code JS",
+        "description": "",
+        "url": "https://github.com/ryanmcdermott/clean-code-javascript"
+      }
+    ]
+  },
+  {
+    "id": "free-practice-platforms",
+    "icon": "🧪",
+    "name": "Free Practice Platforms",
+    "resources": [
+      {
+        "name": "LeetCode Free",
+        "description": "",
+        "url": "https://leetcode.com"
+      },
+      {
+        "name": "HackerRank Free",
+        "description": "",
+        "url": "https://www.hackerrank.com"
+      },
+      {
+        "name": "CodeWars",
+        "description": "",
+        "url": "https://www.codewars.com"
+      },
+      {
+        "name": "Project Euler",
+        "description": "",
+        "url": "https://projecteuler.net"
+      },
+      {
+        "name": "CodinGame",
+        "description": "",
+        "url": "https://www.codingame.com"
+      },
+      {
+        "name": "AtCoder",
+        "description": "",
+        "url": "https://atcoder.jp"
+      }
+    ]
+  },
+  {
+    "id": "office-notes",
+    "icon": "📄",
+    "name": "Office & Notes",
+    "resources": [
+      {
+        "name": "LibreOffice",
+        "description": "Microsoft Office (Word, Excel, PowerPoint)",
+        "url": "https://www.libreoffice.org"
+      },
+      {
+        "name": "OnlyOffice Community",
+        "description": "Microsoft 365",
+        "url": "https://www.onlyoffice.com"
+      },
+      {
+        "name": "Google Docs / Sheets / Slides",
+        "description": "Office suite — completely free",
+        "url": "https://workspace.google.com"
+      },
+      {
+        "name": "CryptPad",
+        "description": "Private Google Docs — encrypted",
+        "url": "https://cryptpad.fr"
+      },
+      {
+        "name": "Joplin",
+        "description": "Evernote — open source, encrypted",
+        "url": "https://joplinapp.org"
+      },
+      {
+        "name": "Obsidian",
+        "description": "Roam Research — free for personal use",
+        "url": "https://obsidian.md"
+      },
+      {
+        "name": "Zettlr",
+        "description": "Academic writing & research",
+        "url": "https://www.zettlr.com"
+      },
+      {
+        "name": "LanguageTool",
+        "description": "Grammarly — open source, 25+ languages",
+        "url": "https://languagetool.org"
+      }
+    ]
+  },
+  {
+    "id": "project-management-free",
+    "icon": "📋",
+    "name": "Project Management (Free)",
+    "resources": [
+      {
+        "name": "Trello",
+        "description": "",
+        "url": "https://trello.com"
+      },
+      {
+        "name": "Vikunja",
+        "description": "",
+        "url": "https://vikunja.io"
+      },
+      {
+        "name": "OpenProject",
+        "description": "",
+        "url": "https://www.openproject.org"
+      },
+      {
+        "name": "Taiga",
+        "description": "",
+        "url": "https://www.taiga.io"
+      },
+      {
+        "name": "Wekan",
+        "description": "",
+        "url": "https://wekan.github.io"
+      },
+      {
+        "name": "Super Productivity",
+        "description": "",
+        "url": "https://super-productivity.com"
+      }
+    ]
+  },
+  {
+    "id": "privacy-communication-all-free",
+    "icon": "🔐",
+    "name": "Privacy & Communication (All Free)",
+    "resources": [
+      {
+        "name": "Signal",
+        "description": "Encrypted messaging & calls",
+        "url": "https://signal.org"
+      },
+      {
+        "name": "Thunderbird",
+        "description": "Email client — open source",
+        "url": "https://www.thunderbird.net"
+      },
+      {
+        "name": "ProtonMail",
+        "description": "Encrypted email — free account",
+        "url": "https://proton.me"
+      },
+      {
+        "name": "Tutanota",
+        "description": "Encrypted email — free",
+        "url": "https://tuta.com"
+      },
+      {
+        "name": "Bitwarden",
+        "description": "Password manager — open source, free",
+        "url": "https://bitwarden.com"
+      },
+      {
+        "name": "KeePassXC",
+        "description": "Offline password manager — open source",
+        "url": "https://keepassxc.org"
+      },
+      {
+        "name": "Jitsi Meet",
+        "description": "Free video conferencing — no account needed",
+        "url": "https://meet.jit.si"
+      },
+      {
+        "name": "Element (Matrix)",
+        "description": "Open-source chat & collaboration",
+        "url": "https://element.io"
+      },
+      {
+        "name": "Privacy Badger",
+        "description": "Browser tracker blocker",
+        "url": "https://privacybadger.org"
+      }
+    ]
+  },
+  {
+    "id": "knowledge-encyclopedias",
+    "icon": "🧠",
+    "name": "Knowledge & Encyclopedias",
+    "resources": [
+      {
+        "name": "Wikipedia",
+        "description": "World's largest free encyclopedia",
+        "url": "https://www.wikipedia.org"
+      },
+      {
+        "name": "Wikimedia Commons",
+        "description": "90M+ free media files",
+        "url": "https://commons.wikimedia.org"
+      },
+      {
+        "name": "Wikidata",
+        "description": "Free structured knowledge base",
+        "url": "https://www.wikidata.org"
+      },
+      {
+        "name": "Wikibooks",
+        "description": "Free textbooks",
+        "url": "https://www.wikibooks.org"
+      },
+      {
+        "name": "Wikivoyage",
+        "description": "Free travel guides",
+        "url": "https://www.wikivoyage.org"
+      },
+      {
+        "name": "Wiktionary",
+        "description": "Free multilingual dictionary",
+        "url": "https://www.wiktionary.org"
+      },
+      {
+        "name": "Wikiversity",
+        "description": "Free learning materials",
+        "url": "https://www.wikiversity.org"
+      },
+      {
+        "name": "Wikisource",
+        "description": "Free source texts & documents",
+        "url": "https://www.wikisource.org"
+      },
+      {
+        "name": "Wolfram Alpha",
+        "description": "Computational knowledge engine",
+        "url": "https://www.wolframalpha.com"
+      },
+      {
+        "name": "TED Talks",
+        "description": "Expert talks on everything",
+        "url": "https://www.ted.com"
+      },
+      {
+        "name": "HowStuffWorks",
+        "description": "How everything works",
+        "url": "https://www.howstuffworks.com"
+      },
+      {
+        "name": "Investopedia",
+        "description": "Free finance & economics",
+        "url": "https://www.investopedia.com"
+      },
+      {
+        "name": "Open Culture",
+        "description": "Free cultural & educational media",
+        "url": "https://www.openculture.com"
+      },
+      {
+        "name": "Simple Wikipedia",
+        "description": "Easy-read encyclopedia",
+        "url": "https://simple.wikipedia.org"
+      }
+    ]
+  },
+  {
+    "id": "writing-tools-open-source-free",
+    "icon": "✏️",
+    "name": "Writing Tools (Open Source / Free)",
+    "resources": [
+      {
+        "name": "Manuskript",
+        "description": "Open-source novel writing & planning",
+        "url": "https://www.theologeek.ch/manuskript/"
+      },
+      {
+        "name": "FocusWriter",
+        "description": "Distraction-free writing",
+        "url": "https://gottcode.org/focuswriter/"
+      },
+      {
+        "name": "LibreOffice Writer",
+        "description": "Full word processor",
+        "url": "https://www.libreoffice.org"
+      },
+      {
+        "name": "Zettlr",
+        "description": "Open-source Markdown writing",
+        "url": "https://www.zettlr.com"
+      },
+      {
+        "name": "Writemonkey",
+        "description": "Zenware distraction-free editor",
+        "url": "https://writemonkey.com"
+      },
+      {
+        "name": "Scribus",
+        "description": "Open-source desktop publishing",
+        "url": "https://www.scribus.net"
+      },
+      {
+        "name": "LanguageTool",
+        "description": "Open-source grammar checker",
+        "url": "https://languagetool.org"
+      },
+      {
+        "name": "Hemingway Editor",
+        "description": "Free readability checker (web)",
+        "url": "https://hemingwayapp.com"
+      }
+    ]
+  },
+  {
+    "id": "free-language-learning",
+    "icon": "🌍",
+    "name": "Free Language Learning",
+    "resources": [
+      {
+        "name": "Duolingo",
+        "description": "",
+        "url": "https://www.duolingo.com"
+      },
+      {
+        "name": "Anki",
+        "description": "Free open-source flashcard app",
+        "url": "https://apps.ankiweb.net"
+      },
+      {
+        "name": "Clozemaster",
+        "description": "Free language practice",
+        "url": "https://www.clozemaster.com"
+      },
+      {
+        "name": "BBC Languages",
+        "description": "",
+        "url": "https://www.bbc.co.uk/languages/"
+      },
+      {
+        "name": "Open Culture Language Lessons",
+        "description": "",
+        "url": "https://www.openculture.com/freelanguagelessons"
+      },
+      {
+        "name": "Readlang",
+        "description": "Read & translate content",
+        "url": "https://readlang.com"
+      }
+    ]
+  },
+  {
+    "id": "translation-open-source",
+    "icon": "🌐",
+    "name": "Translation (Open Source)",
+    "resources": [
+      {
+        "name": "LibreTranslate",
+        "description": "Open source, self-hostable",
+        "url": "https://libretranslate.com"
+      },
+      {
+        "name": "DeepL Free",
+        "description": "Free tier translation",
+        "url": "https://www.deepl.com"
+      },
+      {
+        "name": "Apertium",
+        "description": "Open-source machine translation",
+        "url": "https://www.apertium.org"
+      },
+      {
+        "name": "OmegaT",
+        "description": "Open-source professional CAT tool",
+        "url": "https://omegat.org"
+      }
+    ]
+  },
+  {
+    "id": "free-design-tools-resources",
+    "icon": "🖼️",
+    "name": "Free Design Tools & Resources",
+    "resources": [
+      {
+        "name": "Figma Free",
+        "description": "Professional design tool",
+        "url": "https://www.figma.com"
+      },
+      {
+        "name": "Figma Community",
+        "description": "1M+ free templates & kits",
+        "url": "https://www.figma.com/community"
+      },
+      {
+        "name": "Canva Free",
+        "description": "Online design & video tool",
+        "url": "https://www.canva.com"
+      },
+      {
+        "name": "Penpot",
+        "description": "Open-source Figma alternative",
+        "url": "https://penpot.app"
+      },
+      {
+        "name": "Inkscape",
+        "description": "Open-source vector design",
+        "url": "https://inkscape.org"
+      },
+      {
+        "name": "GIMP",
+        "description": "Open-source Photoshop alternative",
+        "url": "https://www.gimp.org"
+      },
+      {
+        "name": "FreebiesUI",
+        "description": "Free Figma & design kits",
+        "url": "https://freebiesui.com"
+      },
+      {
+        "name": "Whimsical Free",
+        "description": "Wireframes & flowcharts",
+        "url": "https://whimsical.com"
+      },
+      {
+        "name": "Wireframe.cc",
+        "description": "Simple free wireframe tool",
+        "url": "https://wireframe.cc"
+      },
+      {
+        "name": "GrayGrids Free",
+        "description": "Free Bootstrap templates",
+        "url": "https://graygrids.com/free"
+      },
+      {
+        "name": "HTML5 UP",
+        "description": "Free responsive HTML5 templates",
+        "url": "https://html5up.net"
+      },
+      {
+        "name": "Templated",
+        "description": "Free HTML/CSS site templates",
+        "url": "https://templated.co"
+      },
+      {
+        "name": "Start Bootstrap",
+        "description": "Free Bootstrap themes",
+        "url": "https://startbootstrap.com"
+      },
+      {
+        "name": "Cruip",
+        "description": "Free landing page templates",
+        "url": "https://cruip.com"
+      },
+      {
+        "name": "Freedesignresources",
+        "description": "Curated free resources",
+        "url": "https://freedesignresources.net"
+      }
+    ]
+  },
+  {
+    "id": "color-tools-all-free",
+    "icon": "🌈",
+    "name": "Color Tools — All Free",
+    "resources": [
+      {
+        "name": "Coolors",
+        "description": "Fast color palette generator",
+        "url": "https://coolors.co"
+      },
+      {
+        "name": "Adobe Color",
+        "description": "Free color wheel & themes",
+        "url": "https://color.adobe.com"
+      },
+      {
+        "name": "Color Hunt",
+        "description": "Curated free color palettes",
+        "url": "https://colorhunt.co"
+      },
+      {
+        "name": "Paletton",
+        "description": "Color scheme designer",
+        "url": "https://paletton.com"
+      },
+      {
+        "name": "UI Gradients",
+        "description": "Free CSS gradient backgrounds",
+        "url": "https://uigradients.com"
+      },
+      {
+        "name": "CSS Gradient",
+        "description": "CSS gradient code generator",
+        "url": "https://cssgradient.io"
+      },
+      {
+        "name": "Gradient Hunt",
+        "description": "Beautiful free gradient palettes",
+        "url": "https://gradienthunt.com"
+      },
+      {
+        "name": "Happy Hues",
+        "description": "Curated palettes for UI",
+        "url": "https://www.happyhues.co"
+      },
+      {
+        "name": "Khroma",
+        "description": "AI color palette tool",
+        "url": "https://www.khroma.co"
+      },
+      {
+        "name": "Who Can Use",
+        "description": "Color accessibility checker",
+        "url": "https://www.whocanuse.com"
+      },
+      {
+        "name": "Contrast Checker",
+        "description": "WCAG contrast tool",
+        "url": "https://contrastchecker.com"
+      },
+      {
+        "name": "Muzli Colors",
+        "description": "Color inspiration",
+        "url": "https://colors.muz.li"
+      }
+    ]
+  },
+  {
+    "id": "maps-travel",
+    "icon": "🗺️",
+    "name": "Maps & Travel",
+    "resources": [
+      {
+        "name": "OpenStreetMap",
+        "description": "Open-source community world map",
+        "url": "https://www.openstreetmap.org"
+      },
+      {
+        "name": "Organic Maps",
+        "description": "Completely free offline maps & navigation",
+        "url": "https://organicmaps.app"
+      },
+      {
+        "name": "OsmAnd",
+        "description": "Advanced offline navigation, hiking, cycling",
+        "url": "https://osmand.net"
+      },
+      {
+        "name": "Wikivoyage",
+        "description": "Free travel guide for every place on Earth",
+        "url": "https://www.wikivoyage.org"
+      },
+      {
+        "name": "Locus Map Free",
+        "description": "Free outdoor hiking & cycling navigation",
+        "url": "https://www.locusmap.app"
+      },
+      {
+        "name": "uMap",
+        "description": "Create custom maps using OSM data",
+        "url": "https://umap.openstreetmap.fr"
+      },
+      {
+        "name": "Overpass Turbo",
+        "description": "OSM data query & visualization",
+        "url": "https://overpass-turbo.eu"
+      },
+      {
+        "name": "MapLibre",
+        "description": "Open-source map rendering library",
+        "url": "https://maplibre.org"
+      }
+    ]
+  },
+  {
+    "id": "health-wellness",
+    "icon": "💚",
+    "name": "Health & Wellness",
+    "resources": [
+      {
+        "name": "WHO",
+        "description": "World Health Organization",
+        "url": "https://www.who.int"
+      },
+      {
+        "name": "NHS Health A-Z",
+        "description": "UK health encyclopedia",
+        "url": "https://www.nhs.uk/conditions/"
+      },
+      {
+        "name": "CDC",
+        "description": "US Centers for Disease Control",
+        "url": "https://www.cdc.gov"
+      },
+      {
+        "name": "MedlinePlus (NIH)",
+        "description": "Trusted free health info",
+        "url": "https://medlineplus.gov"
+      },
+      {
+        "name": "OpenFoodFacts",
+        "description": "Open food nutrition database",
+        "url": "https://world.openfoodfacts.org"
+      },
+      {
+        "name": "if-me.org",
+        "description": "Open-source mental health platform",
+        "url": "https://if-me.org"
+      },
+      {
+        "name": "7 Cups",
+        "description": "Free emotional support chat",
+        "url": "https://www.7cups.com"
+      },
+      {
+        "name": "MindShift CBT",
+        "description": "Free anxiety management app",
+        "url": "https://www.anxietycanada.com/resources/mindshift-cbt/"
+      },
+      {
+        "name": "NAMI",
+        "description": "Mental illness resources & support",
+        "url": "https://www.nami.org"
+      },
+      {
+        "name": "Mental Health America",
+        "description": "Free anonymous screenings",
+        "url": "https://mhanational.org/mental-health-screening"
+      },
+      {
+        "name": "Woebot Free",
+        "description": "AI mental health support chatbot",
+        "url": "https://woebothealth.com"
+      },
+      {
+        "name": "Awesome Mental Health (GitHub)",
+        "description": "",
+        "url": "https://github.com/dreamingechoes/awesome-mental-health"
+      }
+    ]
+  },
+  {
+    "id": "free-rss-readers-open-source",
+    "icon": "📡",
+    "name": "Free RSS Readers (Open Source)",
+    "resources": [
+      {
+        "name": "FreshRSS",
+        "description": "Self-hostable open-source RSS reader",
+        "url": "https://freshrss.org"
+      },
+      {
+        "name": "NetNewsWire",
+        "description": "Free open-source RSS (Mac/iOS)",
+        "url": "https://netnewswire.com"
+      },
+      {
+        "name": "Miniflux",
+        "description": "Minimal self-hosted RSS reader",
+        "url": "https://miniflux.app"
+      },
+      {
+        "name": "Feeder Android",
+        "description": "Open-source RSS reader",
+        "url": "https://github.com/spacecowboy/Feeder"
+      },
+      {
+        "name": "AllSides",
+        "description": "News from multiple perspectives",
+        "url": "https://www.allsides.com"
+      }
+    ]
+  },
+  {
+    "id": "free-podcast-apps",
+    "icon": "🎙️",
+    "name": "Free Podcast Apps",
+    "resources": [
+      {
+        "name": "AntennaPod",
+        "description": "Open-source Android podcast player",
+        "url": "https://antennapod.org"
+      },
+      {
+        "name": "gPodder",
+        "description": "Open-source desktop podcast client",
+        "url": "https://gpodder.github.io"
+      },
+      {
+        "name": "Spotify Free",
+        "description": "Music & podcasts free tier",
+        "url": "https://www.spotify.com"
+      }
+    ]
+  },
+  {
+    "id": "free-internet-radio",
+    "icon": "📻",
+    "name": "Free Internet Radio",
+    "resources": [
+      {
+        "name": "Radio Garden",
+        "description": "Live radio from any city on Earth",
+        "url": "https://radio.garden"
+      },
+      {
+        "name": "TuneIn Free",
+        "description": "Internet radio streaming",
+        "url": "https://tunein.com"
+      },
+      {
+        "name": "Mixxx",
+        "description": "Open-source DJ & radio broadcasting",
+        "url": "https://mixxx.org"
+      },
+      {
+        "name": "AzuraCast",
+        "description": "Self-hosted web radio management",
+        "url": "https://azuracast.com"
+      },
+      {
+        "name": "Icecast",
+        "description": "Open-source streaming media server",
+        "url": "https://icecast.org"
+      }
+    ]
+  },
+  {
+    "id": "archives-history",
+    "icon": "🌐",
+    "name": "Archives & History",
+    "resources": [
+      {
+        "name": "Internet Archive",
+        "description": "Largest digital library — books, movies, software",
+        "url": "https://archive.org"
+      },
+      {
+        "name": "Wayback Machine",
+        "description": "800 billion archived web pages",
+        "url": "https://web.archive.org"
+      },
+      {
+        "name": "NASA Image Library",
+        "description": "Free NASA photos, videos, audio",
+        "url": "https://images.nasa.gov"
+      },
+      {
+        "name": "Europeana",
+        "description": "50M+ European cultural heritage items (CC)",
+        "url": "https://www.europeana.eu"
+      },
+      {
+        "name": "Digital Public Library (DPLA)",
+        "description": "40M+ items from US libraries & museums",
+        "url": "https://dp.la"
+      },
+      {
+        "name": "Smithsonian Open Access",
+        "description": "4.5M+ CC0 digitized cultural objects",
+        "url": "https://www.si.edu/openaccess"
+      },
+      {
+        "name": "Library of Congress Free",
+        "description": "Maps, historic photos, documents, newspapers",
+        "url": "https://www.loc.gov"
+      },
+      {
+        "name": "HathiTrust",
+        "description": "17M+ digitized academic library volumes",
+        "url": "https://www.hathitrust.org"
+      },
+      {
+        "name": "NYPL Digital Collections",
+        "description": "Free New York Public Library archives",
+        "url": "https://digitalcollections.nypl.org"
+      },
+      {
+        "name": "British Library Digitised",
+        "description": "Free British Library manuscript collections",
+        "url": "https://www.bl.uk/digitised-manuscripts"
+      },
+      {
+        "name": "Wikimedia Commons",
+        "description": "90M+ free media files — photos, audio, video",
+        "url": "https://commons.wikimedia.org"
+      },
+      {
+        "name": "Open Culture",
+        "description": "Free cultural & educational media",
+        "url": "https://www.openculture.com"
+      }
+    ]
+  },
+  {
+    "id": "creative-software",
+    "icon": "🎨",
+    "name": "Creative Software",
+    "resources": [
+      {
+        "name": "GIMP",
+        "description": "Adobe Photoshop",
+        "url": "https://www.gimp.org"
+      },
+      {
+        "name": "Inkscape",
+        "description": "Adobe Illustrator",
+        "url": "https://inkscape.org"
+      },
+      {
+        "name": "Krita",
+        "description": "Photoshop / Corel Painter",
+        "url": "https://krita.org"
+      },
+      {
+        "name": "Blender",
+        "description": "Maya, Cinema 4D, After Effects",
+        "url": "https://www.blender.org"
+      },
+      {
+        "name": "Darktable",
+        "description": "Adobe Lightroom",
+        "url": "https://www.darktable.org"
+      },
+      {
+        "name": "RawTherapee",
+        "description": "Lightroom / Camera Raw",
+        "url": "https://rawtherapee.com"
+      },
+      {
+        "name": "Scribus",
+        "description": "Adobe InDesign",
+        "url": "https://www.scribus.net"
+      },
+      {
+        "name": "Penpot",
+        "description": "Figma / Adobe XD",
+        "url": "https://penpot.app"
+      }
+    ]
+  },
+  {
+    "id": "video-editing",
+    "icon": "✂️",
+    "name": "Video Editing",
+    "resources": [
+      {
+        "name": "DaVinci Resolve (Free)",
+        "description": "Adobe Premiere Pro",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve"
+      },
+      {
+        "name": "Kdenlive",
+        "description": "Premiere Pro — open source",
+        "url": "https://kdenlive.org"
+      },
+      {
+        "name": "Shotcut",
+        "description": "Any video editor — cross-platform",
+        "url": "https://shotcut.org"
+      },
+      {
+        "name": "OpenShot",
+        "description": "iMovie / basic editors",
+        "url": "https://www.openshot.org"
+      },
+      {
+        "name": "Olive Video Editor",
+        "description": "Premiere Pro — open source",
+        "url": "https://www.olivevideoeditor.org"
+      },
+      {
+        "name": "Natron",
+        "description": "Adobe After Effects — open source",
+        "url": "https://natron.fr"
+      },
+      {
+        "name": "Handbrake",
+        "description": "Video converter — open source",
+        "url": "https://handbrake.fr"
+      },
+      {
+        "name": "VLC Media Player",
+        "description": "All media players",
+        "url": "https://www.videolan.org"
+      },
+      {
+        "name": "CapCut Free",
+        "description": "TikTok / Reel editing",
+        "url": "https://www.capcut.com"
+      },
+      {
+        "name": "Clipchamp",
+        "description": "Windows video editing",
+        "url": "https://clipchamp.com"
+      }
+    ]
+  },
+  {
+    "id": "audio-music",
+    "icon": "🎵",
+    "name": "Audio & Music",
+    "resources": [
+      {
+        "name": "Audacity",
+        "description": "Adobe Audition",
+        "url": "https://www.audacityteam.org"
+      },
+      {
+        "name": "LMMS",
+        "description": "FL Studio / GarageBand",
+        "url": "https://lmms.io"
+      },
+      {
+        "name": "Ardour",
+        "description": "Pro Tools",
+        "url": "https://ardour.org"
+      },
+      {
+        "name": "Mixxx",
+        "description": "Virtual DJ / Serato DJ",
+        "url": "https://mixxx.org"
+      },
+      {
+        "name": "MuseScore",
+        "description": "Sibelius notation software",
+        "url": "https://musescore.org"
+      },
+      {
+        "name": "Hydrogen",
+        "description": "Drum machine / beat maker",
+        "url": "http://hydrogen-music.org"
+      }
+    ]
+  },
+  {
+    "id": "office-documents",
+    "icon": "📄",
+    "name": "Office & Documents",
+    "resources": [
+      {
+        "name": "LibreOffice",
+        "description": "Microsoft Office",
+        "url": "https://www.libreoffice.org"
+      },
+      {
+        "name": "Joplin",
+        "description": "Evernote",
+        "url": "https://joplinapp.org"
+      },
+      {
+        "name": "Obsidian",
+        "description": "Roam / Notion (personal, free)",
+        "url": "https://obsidian.md"
+      },
+      {
+        "name": "Thunderbird",
+        "description": "Microsoft Outlook",
+        "url": "https://www.thunderbird.net"
+      },
+      {
+        "name": "Bitwarden",
+        "description": "LastPass / 1Password",
+        "url": "https://bitwarden.com"
+      },
+      {
+        "name": "KeePassXC",
+        "description": "Offline password vault",
+        "url": "https://keepassxc.org"
+      },
+      {
+        "name": "CryptPad",
+        "description": "Private Google Docs",
+        "url": "https://cryptpad.fr"
+      },
+      {
+        "name": "Zettlr",
+        "description": "Academic word processor",
+        "url": "https://www.zettlr.com"
+      }
+    ]
+  },
+  {
+    "id": "browsers-privacy",
+    "icon": "🌐",
+    "name": "Browsers & Privacy",
+    "resources": [
+      {
+        "name": "Firefox",
+        "description": "Open-source browser",
+        "url": "https://www.mozilla.org/firefox"
+      },
+      {
+        "name": "Brave",
+        "description": "Privacy-first browser, built-in ad blocker",
+        "url": "https://brave.com"
+      },
+      {
+        "name": "Tor Browser",
+        "description": "Anonymous browsing",
+        "url": "https://www.torproject.org"
+      },
+      {
+        "name": "uBlock Origin",
+        "description": "Open-source ad blocker extension",
+        "url": "https://ublockorigin.com"
+      },
+      {
+        "name": "Privacy Badger",
+        "description": "Tracker blocker extension",
+        "url": "https://privacybadger.org"
+      }
+    ]
+  },
+  {
+    "id": "developer-tools",
+    "icon": "💻",
+    "name": "Developer Tools",
+    "resources": [
+      {
+        "name": "VS Code",
+        "description": "Free code editor by Microsoft",
+        "url": "https://code.visualstudio.com"
+      },
+      {
+        "name": "Git",
+        "description": "Open-source version control",
+        "url": "https://git-scm.com"
+      },
+      {
+        "name": "Python",
+        "description": "Open-source programming language",
+        "url": "https://www.python.org"
+      },
+      {
+        "name": "Node.js",
+        "description": "Open-source JS runtime",
+        "url": "https://nodejs.org"
+      },
+      {
+        "name": "PostgreSQL",
+        "description": "Open-source database",
+        "url": "https://www.postgresql.org"
+      },
+      {
+        "name": "Docker Free",
+        "description": "Containerization",
+        "url": "https://www.docker.com"
+      },
+      {
+        "name": "Postman Free",
+        "description": "API testing",
+        "url": "https://www.postman.com"
+      },
+      {
+        "name": "DBeaver Free",
+        "description": "Database GUI tool",
+        "url": "https://dbeaver.io"
+      }
+    ]
+  },
+  {
+    "id": "free-mock-interview-platforms",
+    "icon": "🤖",
+    "name": "Free Mock Interview Platforms",
+    "resources": [
+      {
+        "name": "Pramp",
+        "description": "Free peer-to-peer live mock interviews (Data structures, System Design)",
+        "url": "https://www.pramp.com"
+      },
+      {
+        "name": "InterviewBit",
+        "description": "Free peer-to-peer coding mock interviews + massive practice bank",
+        "url": "https://www.interviewbit.com"
+      },
+      {
+        "name": "InterviewLab",
+        "description": "Free AI-powered voice mock interviews (no sign-up required)",
+        "url": "https://www.interviewlab.ai"
+      },
+      {
+        "name": "AceInterview",
+        "description": "100% free AI mock interviews (great for FAANG prep)",
+        "url": "https://aceinterview.in"
+      },
+      {
+        "name": "FreeMockInterview",
+        "description": "AI mock interviews supporting 130+ tech job profiles",
+        "url": "https://freemockinterview.com"
+      }
+    ]
+  },
+  {
+    "id": "free-coding-practice-problem-banks",
+    "icon": "🧠",
+    "name": "Free Coding Practice & Problem Banks",
+    "resources": [
+      {
+        "name": "LeetCode",
+        "description": "The industry standard for Data Structures & Algorithms practice",
+        "url": "https://leetcode.com"
+      },
+      {
+        "name": "HackerRank",
+        "description": "Company-specific assessments and interview prep kits",
+        "url": "https://www.hackerrank.com/interview/interview-preparation-kit"
+      },
+      {
+        "name": "CodeChef",
+        "description": "Competitive programming and algorithmic practice",
+        "url": "https://www.codechef.com"
+      },
+      {
+        "name": "GeeksforGeeks",
+        "description": "Massive database of tutorials and company interview experiences",
+        "url": "https://www.geeksforgeeks.org"
+      },
+      {
+        "name": "Codewars",
+        "description": "Gamified coding challenges (Kata) in multiple languages",
+        "url": "https://www.codewars.com"
+      }
+    ]
+  },
+  {
+    "id": "free-public-apis-for-projects-no-credit-card",
+    "icon": "🔌",
+    "name": "Free Public APIs for Projects (No Credit Card)",
+    "resources": [
+      {
+        "name": "Public APIs (GitHub)",
+        "description": "The master list of 1000+ free APIs across all categories",
+        "url": "https://github.com/public-apis/public-apis"
+      },
+      {
+        "name": "Free APIs for Projects",
+        "description": "Curated list of APIs strictly requiring no credit card",
+        "url": "https://github.com/BuiltWitAI/free-apis-for-projects"
+      },
+      {
+        "name": "Public APIs (No Auth)",
+        "description": "APIs that don't even require an API key (great for beginners)",
+        "url": "https://github.com/alexandresanlim/public-apis-no-auth-only"
+      },
+      {
+        "name": "FreeAPI.app",
+        "description": "High-quality mock APIs for frontend developers to practice with",
+        "url": "https://freeapi.app"
+      },
+      {
+        "name": "APIs Collection",
+        "description": "Machine-readable collection of useful public APIs",
+        "url": "https://github.com/tools-collection/apis-collection"
+      }
+    ]
+  }
+]
